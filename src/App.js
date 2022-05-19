@@ -7,7 +7,7 @@ import Events from "./components/Events";
 import Contact from "./components/Contact";
 import Story from "./components/Story";
 import Charity from "./components/Charity";
-import Career from "./components/Career";
+import Career from "./components/Career"
 
 function App() {
   return (
